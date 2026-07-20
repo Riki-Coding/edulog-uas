@@ -1,0 +1,17 @@
+{
+  "name": "EduLog Student Tracker App",
+  "short_name": "EduLog",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFFDF9",
+  "theme_color": "#800000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942921.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
